@@ -1,0 +1,11 @@
+[SESSION START  2026-08-08 14:32:00.000001]
+[Devices]
+  /dev/input/event2  AT Translated Set 2 keyboard
+
+[2026-08-08 14:32:01.004218] [Window: Firefox — Google]
+[2026-08-08 14:32:01.004312] [AT Translated Set 2 keyboard] h
+[2026-08-08 14:32:01.104891] [AT Translated Set 2 keyboard] e
+[2026-08-08 14:32:01.201004] [AT Translated Set 2 keyboard] l
+[2026-08-08 14:32:01.301774] [AT Translated Set 2 keyboard] l
+[2026-08-08 14:32:01.402009] [AT Translated Set 2 keyboard] o
+[2026-08-08 14:32:02.001337] [AT Translated Set 2 keyboard] [ENTER]

